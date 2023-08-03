@@ -11,9 +11,9 @@
 - I have hands on experience with *DevOps* tools as I've been taught this in curriculum too as a subject particulary **Docker** and **Jenkins**
 - I know how to operate *MongoDB(NoSql)* and its online client mongoose other than realtional databses like Mysql and Postgresql
 
-- 📫 Email me at: faizalam4e@gmail.com
-- 
- ## [LINKEDIN](https://www.linkedin.com/in/faiz-alam-9179b6135/)
+### 📫 Email me at: faizalam4e@gmail.com
+  
+###     [LINKEDIN](https://www.linkedin.com/in/faiz-alam-9179b6135/) -> https://www.linkedin.com/in/faiz-alam-9179b6135/
            
 
 <!---
