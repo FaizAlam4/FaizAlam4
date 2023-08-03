@@ -1,5 +1,5 @@
 ## - 👋 Hi, I’m @FaizAlam4
-```
+`
 
 - I have huge interest in technnical domain and want to leave some impact while working and enjoying my work in this field of engineering
 - I want to keep myself as flexible as possible which is required today in the world of technology where change is only constant
@@ -13,7 +13,7 @@
 
 - 📫 Email me at: faizalam4e@gmail.com
            
-```
+`
 <!---
 FaizAlam4/FaizAlam4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
