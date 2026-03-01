@@ -1,19 +1,52 @@
-## 👋 Hi, I’m @FaizAlam4
+## 👋 Hi, I’m Faiz Alam
 
-- I'm a Computer Science Engineering graduate and currently working as a Software Developer.
-- I work primarily with the **JavaScript full-stack**, specializing in **Node.js**, **React.js**, and **Express** (MERN stack).
-- Before transitioning to a full-time role, I completed an internship where I received hands-on training and learned various industry-specific technical skills and best practices.
-- I’m passionate about technology and driven to make a meaningful impact while enjoying the process of building scalable and efficient solutions.
-- I highly value team collaboration, professionalism, and clear communication, which I believe are crucial in any engineering role.
-- Flexibility is one of my core strengths—something I consider essential in the ever-evolving tech landscape.
-- I enjoy building web applications and have created multiple projects to explore and showcase my skills.
-- I have strong command over **React** (frontend) and have hosted several of my projects on GitHub.
-- I also enjoy problem-solving and have basic knowledge of **Java**, which I used during college for DSA practice.
-- I’ve worked briefly with **MongoDB** as part of my MERN stack learning and have a basic understanding of NoSQL operations.
-- My tech toolkit also includes *HTML5, CSS, and advanced JavaScript*, which I've used extensively in my web projects.
-- I’ve had exposure to *DevOps* concepts through academic and practical experience, particularly tools like **Docker** and **Jenkins**.
-- I’m comfortable working with *relational databases* like **MySQL** and **PostgreSQL** at a beginner to intermediate level.
+Software Engineer (SDE I) focused on building scalable backend systems, event-driven architectures, and AI-powered solutions.
 
-- ### 📫 Email me at: mfaizalam32@gmail.com
-  
-- ###     [LINKEDIN](https://www.linkedin.com/in/faiz-alam-9179b6135/) -> https://www.linkedin.com/in/faiz-alam-9179b6135/
+---
+
+## 🚀 What I Do
+
+- Architect and implement **payment-to-ERP workflows** using idempotent REST APIs, webhook reconciliation, and distributed transaction state management.
+- Design **event-driven microservices** leveraging Azure Service Bus (Queues & Topics) for reliable asynchronous communication.
+- Build **observability-first systems** using OpenSearch, Logstash, and Grafana for centralized monitoring and production triaging.
+- Develop **RAG-based AI pipelines** integrating Azure OpenAI with vector search for semantic classification and contextual reasoning.
+- Implement secure authentication systems with **Keycloak-based SSO and RBAC**.
+
+---
+
+## 🏗 Engineering Focus
+
+- Microservices & Distributed Systems  
+- Event-Driven Architecture  
+- Transaction Reliability & Failure Handling  
+- Offline-First Platforms & Sync Mechanisms  
+- Real-time Systems (Socket.IO, FCM)  
+- Semantic Search & AI Integration  
+
+---
+
+## 💻 Tech Stack
+
+**Backend:** Node.js, Express.js, FastAPI  
+**Frontend:** React.js (PWA experience)  
+**Databases:** PostgreSQL, MongoDB, OpenSearch  
+**Cloud & Infra:** Azure (Service Bus, OpenAI), Docker, CI/CD  
+**Security:** Keycloak (SSO, RBAC)  
+**Core:** DSA, System Design, OOP  
+
+---
+
+## 📌 Highlight Work
+
+- Built Razorpay-integrated payment architecture with webhook reconciliation.
+- Designed offline-first audit platform reducing reporting latency.
+- Implemented scalable notification systems handling 2000+ daily events.
+- Developed multi-tenant RAG-based AI semantic enrichment layer.
+
+---
+
+## 📫 Connect
+
+📧 Email: mfaizalam32@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/faiz-alam-9179b6135/  
+💻 GitHub: https://github.com/FaizAlam4  
