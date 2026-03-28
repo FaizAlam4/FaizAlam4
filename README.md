@@ -1,47 +1,60 @@
 ## 👋 Hi, I’m Faiz Alam
 
-Software Engineer (SDE I) focused on building scalable backend systems, event-driven architectures, and AI-powered solutions.
+Backend Engineer (SDE I) specializing in **scalable distributed systems, event-driven architectures, and AI-powered platforms**.
+
+I build systems that handle **real-world production complexity** — payments, async workflows, observability, and intelligent data pipelines.
 
 ---
 
 ## 🚀 What I Do
 
-- Architect and implement **payment-to-ERP workflows** using idempotent REST APIs, webhook reconciliation, and distributed transaction state management.
-- Design **event-driven microservices** leveraging Azure Service Bus (Queues & Topics) for reliable asynchronous communication.
-- Build **observability-first systems** using OpenSearch, Logstash, and Grafana for centralized monitoring and production triaging.
-- Develop **RAG-based AI pipelines** integrating Azure OpenAI with vector search for semantic classification and contextual reasoning.
-- Implement secure authentication systems with **Keycloak-based SSO and RBAC**.
+- Design and implement **payment-to-ERP systems** with idempotent APIs, webhook reconciliation, and fault-tolerant transaction handling.
+- Build **event-driven microservices** using Azure Service Bus (Queues & Topics) for reliable asynchronous communication.
+- Develop **observability-first platforms** using OpenSearch, Logstash, and Grafana for production monitoring and debugging.
+- Engineer **AI-powered semantic systems (RAG pipelines)** using Azure OpenAI + vector search for contextual retrieval.
+- Implement **secure authentication systems** with Keycloak (SSO, RBAC, OAuth).
 
 ---
 
 ## 🏗 Engineering Focus
 
-- Microservices & Distributed Systems  
+- Distributed Systems & Microservices  
 - Event-Driven Architecture  
-- Transaction Reliability & Failure Handling  
-- Offline-First Platforms & Sync Mechanisms  
+- Reliability Engineering (Retries, Idempotency, Failure Recovery)  
+- Offline-First Systems & Sync Strategies  
 - Real-time Systems (Socket.IO, FCM)  
-- Semantic Search & AI Integration  
+- AI Integration & Semantic Search  
 
 ---
 
 ## 💻 Tech Stack
 
+**Languages:** JavaScript, Python, Java, SQL  
 **Backend:** Node.js, Express.js, FastAPI  
-**Frontend:** React.js (PWA experience)  
+**Frontend:** React.js (PWA)  
 **Databases:** PostgreSQL, MongoDB, OpenSearch  
-**Cloud & Infra:** Azure (Service Bus, OpenAI), Docker, CI/CD  
-**Security:** Keycloak (SSO, RBAC)  
+**Infra & Cloud:** Azure (Service Bus, OpenAI), Docker, CI/CD  
+**Security:** Keycloak, OAuth, RBAC  
 **Core:** DSA, System Design, OOP  
 
 ---
 
-## 📌 Highlight Work
+## 📌 Impact Highlights
 
-- Built Razorpay-integrated payment architecture with webhook reconciliation.
-- Designed offline-first audit platform reducing reporting latency.
-- Implemented scalable notification systems handling 2000+ daily events.
-- Developed multi-tenant RAG-based AI semantic enrichment layer.
+- ⚡ Built **Razorpay-integrated payment architecture** with reliable webhook reconciliation across distributed services  
+- 🔄 Designed **async ERP integrations** using Azure Service Bus for decoupled system communication  
+- 📊 Implemented **centralized observability stack** reducing production debugging time  
+- 📡 Developed **real-time notification system** handling 2000+ daily events  
+- 🤖 Built **AI-powered semantic search layer** for contextual enterprise data retrieval  
+- 📱 Delivered **offline-first audit platform** with robust sync in low-connectivity environments  
+
+---
+
+## 📈 Currently Building
+
+- 🚀 **JobSignal (Job Intelligence Engine)**  
+  → Aggregates and ranks job opportunities based on **recency + relevance**  
+  → Focused on **early discovery and decision optimization**
 
 ---
 
