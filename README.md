@@ -53,12 +53,13 @@ Azure OpenAI service that auto-categorizes quality data the operations team prev
 A production-grade ride-sharing simulator mirroring Uber's pricing backend. Maps high-throughput geospatial click events into an **Apache Kafka** cluster, calculates real-time zone multipliers via an in-memory aggregation layer, and pushes sub-millisecond updates to a Leaflet.js dashboard using **Server-Sent Events (SSE)**. Protected the MySQL database from event storms by implementing async `@Scheduled` batch upserts via Hibernate ORM. Includes self-healing multi-threaded auto-decay to organically resolve demand spikes.
 
 `Java` `Spring Boot` `Apache Kafka` `MySQL (TiDB Serverless)` `Hibernate` `Leaflet.js`
+→ [Live demo](https://dynamic-serge-engine.onrender.com/)
 
 ### [Job Pulse](https://github.com/FaizAlam4/job-pulse) — AI job aggregation & resume analysis
 Cron-driven ingestion engine with SHA-256 content-hash deduplication, an AI resume analyzer (Groq, Azure OpenAI), and a composite ranking engine over a Redis cache-aside layer holding sub-5 ms reads. Containerized with Docker; every push gated by CI running **183 automated tests at 81% coverage**.
 
 `Node.js` `MongoDB Atlas` `Upstash Redis` `Docker` `GitHub Actions` — deployed on Render + Vercel
-→ [Live demo](http://job-pulse-ten.vercel.app/)
+→ [Live demo](https://job-pulse-ten.vercel.app/)
 
 ---
 
