@@ -35,19 +35,24 @@ Azure OpenAI service that auto-categorizes quality data the operations team prev
 
 **Languages** &nbsp; JavaScript (Node.js) · Python · SQL · Java
 
-**Backend & APIs** &nbsp; Express.js · FastAPI · REST APIs · Microservices · Event-Driven Architecture · WebSockets (Socket.IO) · SQLAlchemy · Alembic · Pydantic
+**Backend & APIs** &nbsp; Express.js · FastAPI · Spring Boot · REST APIs · Microservices · Event-Driven Architecture · WebSockets (Socket.IO, SSE) · SQLAlchemy · Hibernate / JPA
 
-**Frontend** &nbsp; React · Progressive Web Apps (PWA) · Vite
+**Frontend** &nbsp; React · Progressive Web Apps (PWA) · Vite · Vanilla JS
 
-**Data & Messaging** &nbsp; PostgreSQL (schema design, migrations, materialized views) · MongoDB · Redis · Azure Service Bus
+**Data & Messaging** &nbsp; PostgreSQL · MySQL (TiDB) · MongoDB · Redis · Apache Kafka · Azure Service Bus
 
-**Cloud & DevOps** &nbsp; Azure (Service Bus, OpenAI) · AWS · Docker · Kubernetes · Git · GitHub Actions · CI/CD
+**Cloud & DevOps** &nbsp; Azure · AWS · Docker · Kubernetes · Git · GitHub Actions · CI/CD
 
 **Observability & Security** &nbsp; Grafana · OpenSearch · Logstash · Keycloak (OAuth2 / RBAC / SSO)
 
 ---
 
 ## 📌 Projects
+
+### [Dynamic Surge Pricing Engine](https://github.com/FaizAlam4/Dynamic-Serge-Engine) — Event-driven geospatial price calculator
+A production-grade ride-sharing simulator mirroring Uber's pricing backend. Maps high-throughput geospatial click events into an **Apache Kafka** cluster, calculates real-time zone multipliers via an in-memory aggregation layer, and pushes sub-millisecond updates to a Leaflet.js dashboard using **Server-Sent Events (SSE)**. Protected the MySQL database from event storms by implementing async `@Scheduled` batch upserts via Hibernate ORM. Includes self-healing multi-threaded auto-decay to organically resolve demand spikes.
+
+`Java` `Spring Boot` `Apache Kafka` `MySQL (TiDB Serverless)` `Hibernate` `Leaflet.js`
 
 ### [Job Pulse](https://github.com/FaizAlam4/job-pulse) — AI job aggregation & resume analysis
 Cron-driven ingestion engine with SHA-256 content-hash deduplication, an AI resume analyzer (Groq, Azure OpenAI), and a composite ranking engine over a Redis cache-aside layer holding sub-5 ms reads. Containerized with Docker; every push gated by CI running **183 automated tests at 81% coverage**.
